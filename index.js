@@ -1,5 +1,5 @@
-normalRuntime()
-// devMode()
+// normalRuntime()
+devMode()
 
 async function normalRuntime() {
 	const { Client, Collection, Intents } = require('discord.js');
