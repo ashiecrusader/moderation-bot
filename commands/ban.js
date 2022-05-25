@@ -86,13 +86,7 @@ module.exports = {
         })
 
         
-       
-
-        // const Http = new XMLHttpRequest();
-        // const url = "https://yeaz.ashieestar.repl.co/kickRequest/place_holder"
-        // Http.open("POST", url);
-        // Http.send();
-
+     
 
 
 
