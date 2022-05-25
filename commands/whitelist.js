@@ -1,6 +1,6 @@
 const { SlashCommandBuilder } = require('@discordjs/builders')
 const axios = require('axios')
-const { getBloxlinkUser } = require('../bloxlink-api-wrapper');
+const { getBloxlinkUser } = require('../some-wrapper');
 const { db } = require('../firebaseinit');
 const noblox = require('noblox.js')
 
